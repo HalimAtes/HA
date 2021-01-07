@@ -1,4 +1,4 @@
-### Hi there, I'm [Halim][http://halimates.com.tr/] 😎
+### Hi there, I'm [Halim](http://halimates.com.tr) 😎
 
 
 ## Hello, I'm Halim 👋
