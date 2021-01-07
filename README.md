@@ -3,9 +3,9 @@
 
 ## Hello, I'm Halim 👋
 
-- 🤖 I have a handy Discord Bot Project called [io][https://discord.gg/n6dZJRTd3k]
+- 🤖 I have a handy Discord Bot Project called [io](https://discord.gg/n6dZJRTd3k)
 - 🎭 I'm Interested In Design As A Hobby
-- 🥰 I Have A [Discord Server][https://discord.gg/hpGYN8X3Ut] Where I Have Fun With My Friends 
+- 🥰 I Have A [Discord Server](https://discord.gg/hpGYN8X3Ut) Where I Have Fun With My Friends 
 
 <br />
 
@@ -17,14 +17,14 @@
 
 ## Contact me 📞
 
-- 😁 [Discord - halim#7926][https://discord.com/users/689129924140859424]
+- 😁 [Discord - halim#7926](https://discord.com/users/689129924140859424)
 
 <br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="HalimAtes's GitHub Stats" src="https://github-readme-stats.HalimAtes.vercel.app/api?username=HalimAtes&show_icons=true&hide_border=true" />
+  <img align="left" alt="HalimAtes's GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=HalimAtes)](https://github.com/HalimAtes/github-readme-stats)" />
 
 </details>
 
