@@ -21,12 +21,14 @@
 
 <br />
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="HA's GitHub Stats" src="https://github-readme-stats.HalimAtes.vercel.app/api?username=HalimAtes&show_icons=true&hide_border=true" />
+  <img align="left" alt="HalimAtes's GitHub Stats" src="https://github-readme-stats.HalimAtes.vercel.app/api?username=HalimAtes&show_icons=true&hide_border=true" />
 
 </details>
+
 
 <br />
 
