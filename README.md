@@ -24,7 +24,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="HalimAtes's GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=HalimAtes)](https://github.com/HalimAtes/github-readme-stats)" />
+  <img align="left" alt="HA's GitHub Stats" src="https://github-readme-stats.HalimAtes.vercel.app/api?username=HalimAtes&show_icons=true&hide_border=true" />
 
 </details>
 
