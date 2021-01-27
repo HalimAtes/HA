@@ -10,12 +10,6 @@
 
 <br />
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="HalimAtes Spotify Playing" width="350" />](https://open.spotify.com/genre/instrumental_strings-page)
-
-<br />
-
 ## Contact me 📞
 
 - 😁 [Discord - halim#7926](https://discord.com/users/689129924140859424)
