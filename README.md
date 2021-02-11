@@ -4,7 +4,6 @@
 
 ## Hello, I'm Halim 👋
 
-- 🤖 I have a handy Discord Bot Project called [io](https://discord.gg/n6dZJRTd3k)
 - 🎭 I'm Interested In Design As A Hobby
 - 🥰 I Have A [Discord Server](https://discord.gg/hpGYN8X3Ut) Where I Have Fun With My Friends 
 
